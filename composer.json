@@ -1,0 +1,14 @@
+{
+    "name": "sendmsg/sendmsg",
+    "description": "send phone msg",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songlu",
+            "email": "song.l@haihangyun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
