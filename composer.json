@@ -3,6 +3,7 @@
     "description": "send phone msg",
     "type": "php",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "songlu",
@@ -19,5 +20,4 @@
         }
     }
 }
-
 
