@@ -9,6 +9,10 @@
             "email": "song.l@haihangyun.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev-master",
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
+
+
